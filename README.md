@@ -28,13 +28,7 @@
 ## 📦 Installation 
 
 ### 1. Clone the Repository 
-
 ```bash
-git clone https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git
+git clone [https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git](https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git)
 cd Real-Time-PPE-Detection-System
-
-## 📦 Installation
-pip install -r requirements.txt
-
-streamlit run app.py
 
