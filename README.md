@@ -28,19 +28,13 @@
 ## 📦 Installation 
 
 ### 1. Clone the Repository 
+
 ```bash
-git clone [https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git](https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git)
+git clone https://github.com/gaurav25bm/Real-Time-PPE-Detection-System.git
 cd Real-Time-PPE-Detection-System
 
-### 2. Install Dependencies
-```bash
+## 📦 Installation
 pip install -r requirements.txt
 
-### 3. Setup Model
-Place your best.pt file inside the models/ directory.
-
-🖥️ Usage
-Run the Application Locally
-```bash
 streamlit run app.py
-Access the interface at: http://localhost:8501
+
